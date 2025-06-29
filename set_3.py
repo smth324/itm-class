@@ -3,9 +3,6 @@
 This assignment will develop your ability to manipulate data.
 """
 
-from set_3_sample_data import legs as c
-
-
 def relationship_status(from_member, to_member, social_graph):
     """Relationship Status.
 
